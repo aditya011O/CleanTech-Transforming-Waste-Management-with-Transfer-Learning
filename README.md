@@ -1,0 +1,2 @@
+# CleanTech-Transforming-Waste-Management-with-Transfer-Learning
+classifying blood cells by employing transfer learning techniques. Utilizing a dataset of 12,000 annotated blood cell images, categorized into distinct classes such as eosinophils, lymphocytes, monocytes, and neutrophils, the project leverages pre-trained convolutional neural networks (CNNs) to expedite training and improve classification accuracy.
